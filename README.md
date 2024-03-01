@@ -1,4 +1,4 @@
-# CareCard — Health Operations Workspace
+# Digital HealthPass
 
 A clear patient record, with explicit sharing consent.
 
@@ -19,7 +19,7 @@ All 20 resource types have documented schemas, deterministic fixtures, exact-mat
 Install Python 3.12 or newer. No third-party runtime packages are needed.
 
 ```bash
-cd carecard-health
+cd digital-healthpass
 python -B -m app
 ```
 
